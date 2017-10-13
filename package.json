@@ -1,12 +1,16 @@
 {
   "name": "hello-bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "Hello World Messenger bot, using Chatloop",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": {
+    "name": "Thales Davila",
+    "email": "thalesmdav@gmail.com",
+    "url": "https://github.com/ThalesDavila"
+  },
   "license": "ISC",
   "dependencies": {
     "chatloop": "^1.0.1"
